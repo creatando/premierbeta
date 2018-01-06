@@ -1,0 +1,6 @@
+framework module AZTransitions {
+  umbrella header "AZTransitions-umbrella.h"
+
+  export *
+  module * { export * }
+}
